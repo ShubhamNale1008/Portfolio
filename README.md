@@ -1,9 +1,9 @@
-✨ Shubham Nale — Developer Portfolio
+✨ Shubham Nale Portfolio
 <p align="center"> <b>A modern, responsive portfolio website built with HTML, CSS, and JavaScript</b><br> Designed to showcase my skills, projects, and certifications in a clean and elegant way. </p>
 🌐 Live Website
 
 🔗 Visit my portfolio:
-https://shubhamnale1008.github.io/
+(https://shubhamnale1008.github.io/Portfolio/)  
 
 🚀 About This Project
 
@@ -83,7 +83,7 @@ Feel free to connect with me:
 
 GitHub: https://github.com/ShubhamNale1008
 
-Portfolio: https://shubhamnale1008.github.io/
+Portfolio: (https://shubhamnale1008.github.io/Portfolio/)
 
 ⭐ Support
 
